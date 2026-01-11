@@ -1,5 +1,5 @@
 # 1. Cloner le repository
-git clone https://github.com/Ouba3/life-expectancy-dashboard.git
+git clone https://github.com/Ouba3/Dashboard-Project.git
 cd life-expectancy-dashboard
 
 # 2. Installer les dépendances
